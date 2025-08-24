@@ -4,6 +4,18 @@ local placeId = game.PlaceId
 if placeId == 2965881766 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/PulseXHub/brawl-Blox/refs/heads/main/Brawl-Blox"))()
 
-elseif placeId == 97979682421289 then
+elseif placeId == 81440632616906 then
+local TeleportService = game:GetService("TeleportService")
+local Players = game:GetService("Players")
 
+local player = Players.LocalPlayer
+local targetPlaceId = 97979682421289
+
+-- Check current PlaceId
+if game.PlaceId ~= targetPlaceId then
+    -- Teleport to the target place
+    TeleportService:Teleport(targetPlaceId, player)
+end
+elseif placeId == 97979682421289 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PulseXHub/brawl-Blox/refs/heads/main/Dig%20to%20eartsh%20core%20dedw"))()
 end
