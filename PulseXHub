@@ -1,8 +1,9 @@
+
 local placeId = game.PlaceId
 
 if placeId == 2965881766 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/PulseXHub/brawl-Blox/refs/heads/main/Brawl-Blox"))()
-else
 
+elseif placeId == 97979682421289 then
 
 end
