@@ -4,9 +4,8 @@ if placeId == 2965881766 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/PulseXHub/brawl-Blox/refs/heads/main/Brawl-Blox"))()
 
 elseif placeId == 81440632616906 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/PulseXHub/brawl-Blox/refs/heads/main/Dig%20to%20earth%20core%20dedw"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PulseXHub/brawl-Blox/refs/heads/main/Dig%20to%20eartsh%20core%20dedw"))()
 
 elseif placeId == 97979682421289 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/PulseXHub/brawl-Blox/refs/heads/main/Dig%20to%20earth%20core%20dedw"))()
-
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PulseXHub/brawl-Blox/refs/heads/main/Dig%20to%20eartsh%20core%20dedw"))()
 end
