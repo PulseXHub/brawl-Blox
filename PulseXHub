@@ -1,0 +1,9 @@
+local placeId = game.PlaceId
+
+if placeId == 18283 then
+    -- Load script for PlaceId 18283
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/yourname/PulseX-Hub/main/Games/18283.lua"))()
+else
+    -- Load fallback/universal script
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/yourname/PulseX-Hub/main/universal.lua"))()
+end
