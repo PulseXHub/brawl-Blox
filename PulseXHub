@@ -9,7 +9,7 @@ elseif placeId == 81440632616906 then
 elseif placeId == 97979682421289 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/PulseXHub/brawl-Blox/refs/heads/main/Dig%20to%20eartsh%20core%20dedw"))()
 
-elseif placeId == 100 then
+elseif placeId == 15755895375 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/PulseXHub/brawl-Blox/refs/heads/main/Doodle"))()
 
 end
